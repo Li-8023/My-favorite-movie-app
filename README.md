@@ -1,5 +1,5 @@
-#### My-favorite-movie-app
-# Developing  a  my  favorite  movie  app  that  store  movie  title, the genre and the ticket sale (as of the due date of this lab, doesn’t need to the exact figure) using SwiftUI. 
+# My-favorite-movie-app
+## Developing  a  my  favorite  movie  app  that  store  movie  title, the genre and the ticket sale (as of the due date of this lab, doesn’t need to the exact figure) using SwiftUI. 
 Functionalities: 
 + Add : add new movie info object to the dictionary. Ask the user to enter the movie 
   title, the genre and the ticket price. Add need to be a navigation bar button item. 
